@@ -22,7 +22,7 @@ Installation Instructions
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/network-scanning-tool.git
+git clone https://github.com/H07Ver/NetStryker.git
 cd network-scanning-tool
 ```
 Install required dependencies: This script checks and installs any missing dependencies, so simply running the script will handle it automatically.
